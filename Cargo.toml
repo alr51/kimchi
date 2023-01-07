@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "kimchi_server",
+  "kimchi_client",
+  "kimchi_messages",
+]
